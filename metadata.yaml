@@ -1,5 +1,8 @@
 _repo: The-Younger-Sister-A-Novel-Vol-II_54011
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54011-h/images/cover.jpg
 creator:
   author:
     agent_name: Hubback, Mrs. (Catherine-Anne Austen)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '47662'
     url: http://www.gutenberg.org/2009/agents/47662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54011#The-Younger-Sister-A-Novel-Vol-II
 gutenberg_issued: '2017-01-21'
 gutenberg_type: Text
 identifiers:
